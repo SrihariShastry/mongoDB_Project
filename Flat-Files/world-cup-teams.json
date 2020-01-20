@@ -1,0 +1,33 @@
+{"_id":{"$oid":"5d4495674c8e06578c3ba839"},"TeamID":"A1","Team":"Russia","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba83a"},"TeamID":"A2","Team":"Saudi Arabia","Continent":"Asia","League":"AFC"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba83b"},"TeamID":"A3","Team":"Egypt","Continent":"Africa","League":"CAF"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba83c"},"TeamID":"A4","Team":"Uruguay","Continent":"South America","League":"CONMEBOL"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba83d"},"TeamID":"B1","Team":"Portugal","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba83e"},"TeamID":"B2","Team":"Spain","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba83f"},"TeamID":"B3","Team":"Morocco","Continent":"Africa","League":"CAF"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba840"},"TeamID":"B4","Team":"Iran","Continent":"Asia","League":"AFC"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba841"},"TeamID":"C1","Team":"France","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba842"},"TeamID":"C2","Team":"Australia","Continent":"Australia","League":"AFC"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba843"},"TeamID":"C3","Team":"Peru","Continent":"South America","League":"CONMEBOL"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba844"},"TeamID":"C4","Team":"Denmark","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba845"},"TeamID":"D1","Team":"Argentina","Continent":"South America","League":"CONMEBOL"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba846"},"TeamID":"D2","Team":"Iceland","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba847"},"TeamID":"D3","Team":"Croatia","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba848"},"TeamID":"D4","Team":"Nigeria","Continent":"Africa","League":"CAF"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba849"},"TeamID":"E1","Team":"Brazil","Continent":"South America","League":"CONMEBOL"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba84a"},"TeamID":"E2","Team":"Switzerland","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba84b"},"TeamID":"E3","Team":"Costa Rica","Continent":"Central America","League":"CONCACAF"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba84c"},"TeamID":"E4","Team":"Serbia","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba84d"},"TeamID":"F1","Team":"Germany","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba84e"},"TeamID":"F2","Team":"Mexico","Continent":"North America","League":"CONCACAF"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba84f"},"TeamID":"F3","Team":"Sweden","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba850"},"TeamID":"F4","Team":"South Korea","Continent":"Asia","League":"AFC"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba851"},"TeamID":"G1","Team":"Belgium","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba852"},"TeamID":"G2","Team":"Panama","Continent":"Carribean","League":"CONCACAF"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba853"},"TeamID":"G3","Team":"Tunisia","Continent":"Africa","League":"CAF"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba854"},"TeamID":"G4","Team":"England","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba855"},"TeamID":"H1","Team":"Poland","Continent":"Europe","League":"UEFA"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba856"},"TeamID":"H2","Team":"Senegal","Continent":"Africa","League":"CAF"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba857"},"TeamID":"H3","Team":"Colombia","Continent":"South America","League":"CONMEBOL"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba858"},"TeamID":"H4","Team":"Japan","Continent":"Asia","League":"AFC"}
+{"_id":{"$oid":"5d4495674c8e06578c3ba859"},"TeamID":"","Team":null,"Continent":null,"League":null}
