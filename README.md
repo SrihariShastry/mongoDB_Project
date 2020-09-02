@@ -1,7 +1,7 @@
 # MongoDB Project
 
-In this project, you will learn to use MongoDB as an example of a document-oriented NOSQL system, and see how data is stored and queried in such a system. You will also learn about the difference between storing data in a flat (relational) format versus in a document (complex object) JSON format.
-The input to your program will be several data files in flat relational format for the WORLD CUP 2018 database example (see attached approximate ER and relational schemas). The files contain data records about information regarding the 2018 soccer world cup tournament. 
+In this project, we will use MongoDB as an example of a document-oriented NOSQL system, and see how data is stored and queried in such a system. We will demonstrate the difference between storing data in a flat (relational) format versus in a document (complex object) JSON format.
+The input to the program will be several data files in flat relational format for the WORLD CUP 2018 database example (see attached approximate ER and relational schemas). The files contain data records about information regarding the 2018 soccer world cup tournament. 
 
 Project 2, Part 1:
 
