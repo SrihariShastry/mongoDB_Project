@@ -11,8 +11,8 @@ Turn in documentation to show that you installed Mongo DB and created the flat f
 
 Project 2, Part 2:
 
-You will need to design two document (complex object) schemas corresponding to this data. The first one is required, while the second one is optional for extra credit (20 points extra over 100):
+We have designed two document (complex object) schemas corresponding to this data:
 
-1.	The TEAM_SCORES document will include the following data about each team: Team (that is, the team name), and a collection of the team match (GAME) scores. Each match score in the collection will include: the date of the match, the name of the city and stadium where the match was played, repeat of the team’s name, the team score in the match, the name of the opposing team, and the score of the opposing team.
+1.	The TEAM_SCORES document will include the following data about each team: Team (that is, the team name, and a collection of the team match (GAME) scores). Each match score in the collection will include: the date of the match, the name of the city and stadium where the match was played, repeat of the team’s name, the team score in the match, the name of the opposing team, and the score of the opposing team.
 2.	The PLAYER_DATA document will include the following data about each player: the player name (Pname), the player’s team name (Team), the player number (PNo) and position (Position), and a collection of games that the player has started – for each game (match) the player  has started, include the MatchDate, City, Stadium Name, and opposing team name. Also include for each player a collection of goals that the player has scored (if any) – for each goal scored, include the GoalType, Time, MatchDate, City, Stadium Name, and opposing team name.
 
