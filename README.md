@@ -7,8 +7,6 @@ Project 2, Part 1:
 
 Install Mongo DB on your computer. Load the data files into Mongo DB as flat files: TEAM, GAME, PLAYER, STARTING_LINEUP, GOALS.
 
-Turn in documentation to show that you installed Mongo DB and created the flat file document collections corresponding to the above tables. Due date: Sunday August 4, 2019.
-
 Project 2, Part 2:
 
 We have designed two document (complex object) schemas corresponding to this data:
